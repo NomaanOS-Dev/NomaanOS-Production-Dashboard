@@ -1,12 +1,34 @@
-# React + Vite
+# NomaanOS Production Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An enterprise-grade, high-performance monitoring and telemetry dashboard built for real-time operations, SOC observability, and edge infrastructure management.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚡ Tech Stack
 
-## Expanding the ESLint configuration
+- **Framework**: React / Modern JavaScript
+- **Build Tool**: Vite
+- **Styling & Components**: Modular CSS / Responsive Layouts
+- **Deployment**: Vercel Ready
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Getting Started
+
+### Prerequisites
+- Node.js (v18+ recommended)
+- npm or yarn
+
+### Installation
+```bash
+# Clone the repository
+git clone [https://github.com/NomaanOS-Dev/NomaanOS-Production-Dashboard.git](https://github.com/NomaanOS-Dev/NomaanOS-Production-Dashboard.git)
+cd NomaanOS-Production-Dashboard
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+🌐 Live Demo
+​URL: https://nomaanos-production-dashboard.vercel.app
